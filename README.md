@@ -46,20 +46,13 @@ def qr_decomposition(A):
 a=np.array(eval(input()))
 qr_decomposition(a)
 
-
-
-
-
-
 ```
 
 ## Output
-```
+
 <img width="979" height="775" alt="Screenshot 2025-11-27 113542" src="https://github.com/user-attachments/assets/60a4e7ff-ea1b-4af5-ab06-c78b200dd7e6" />
 <img width="1168" height="431" alt="Screenshot 2025-11-27 113556" src="https://github.com/user-attachments/assets/4d34d916-c15e-44aa-b7b4-bffa18b127ea" />
 
-
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
